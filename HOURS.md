@@ -5,3 +5,4 @@ Note: Coding time was tracked automatically using WakaTime (https://wakatime.com
 - 0.25h – initial firmware skeleton for ESP32-C3 (pin definitions, setup, loop)
 - 0.5h – mock sensor values and Serial Monitor output for testing
 - 0.5h – capacitive touch input implementation and testing
+-------------------------------------------------- 2 hours

@@ -13,6 +13,6 @@ Non-coding work (planning, schematics, documentation) is logged manually below.
 Total (manual): **2.45h** witout WakaTime
 
 ### 2025-12-27
--2h - 3D CAD Case for the components
--0.4h - first site prototipe
+- 2h - 3D CAD Case for the components
+- 0.4h - first site prototipe
 Total (manual): **2.4h** witout WakaTime
